@@ -1,0 +1,8 @@
+prefix=/catkin_ws/install
+
+Name: camera_2d_lidar_calibration
+Description: Description of camera_2d_lidar_calibration
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>open_manipulator_move_xyz</name>
+  <version>2.0.2</version>
+  <description>
+    Provides moving to xyz
+  </description>
+  <license>Apache 2.0</license>
+  <author email="lk4820asdf@gmail.com">Sangho Lee</author>
+  <maintainer email="lk4820asdf@gmail.com">Sangho Lee</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>open_manipulator_msgs</depend>
+</package>
